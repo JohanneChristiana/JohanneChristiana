@@ -26,6 +26,7 @@
 <!--Linking examples of my work-->
 # 🛠️ Examples of Work
 ![Different works](https://github.com/JohanneChristiana/JohanneChristiana/assets/113961547/7a01d5a5-d582-42fb-a14c-c5cbf755f03c)
+Java - Flight Information System<br/>
 HTML/CSS - University Work: [Click Here](https://johannechristiana.github.io/)<br/>
 Figma - University Course Registration Design: [Click Here](https://www.figma.com/file/ddL948PjFBkdxxkppVgfKz/University-Course-Registration---Design?type=design&node-id=0%3A1&mode=design&t=JtnwBgcMcBlvaICm-1)<br/>
 Google Sites - Assignment Project at Victoria University: [Click Here](https://sites.google.com/view/jamunlimited/home)<br/>

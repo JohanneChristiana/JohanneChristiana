@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Johanne!
 
-![Gif-GithubProfile](https://github.com/JohanneChristiana/JohanneChristiana/assets/113961547/56534343-101d-4379-97de-7ad37b26d061)
+![LoadingScreen-1920x800](https://github.com/JohanneChristiana/JohanneChristiana/assets/113961547/564a6a83-ad7e-4d7d-86fd-ef487f1ab771)
 
 👩‍💻 Sharing my journey and learnings in Tech
 🏫 Studying Information Technology at Victoria University, Australia

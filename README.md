@@ -1,3 +1,4 @@
+<!--Introduction-->
 # 👋 Hi, I'm Johanne!
 
 ![LoadingScreen-1920x800](https://github.com/JohanneChristiana/JohanneChristiana/assets/113961547/564a6a83-ad7e-4d7d-86fd-ef487f1ab771)
@@ -8,6 +9,7 @@
 🖥️ Feel free to connect with me on [LinkedIn](www.linkedin.com/in/johannemenez)<br/>
 💭 Currently learning more about Java and JavaScript<br/>
 
+<!--Markdown Badges: https://github.com/Ileriayo/markdown-badges-->
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

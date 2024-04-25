@@ -23,9 +23,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+<!--Linking examples of my work-->
 # 🛠️ Examples of Work
 HTML/CSS - University Work: [Click Here](https://johannechristiana.github.io/)<br/>
 WordPress - Created a Website for an architect and interior designer's portfolio: [Click Here](https://paulaleighmyportfolio.wordpress.com/)<br/>
 WordPress - My first website and business, promoting my emote artwork to clients: [Click Here](https://yohanforreal.wordpress.com/)<br/>
 
-# 📝 Resume/CV

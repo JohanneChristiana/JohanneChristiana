@@ -26,6 +26,6 @@
 <!--Linking examples of my work-->
 # 🛠️ Examples of Work
 HTML/CSS - University Work: [Click Here](https://johannechristiana.github.io/)<br/>
+Figma - University Course Registration Design (https://www.figma.com/file/ddL948PjFBkdxxkppVgfKz/University-Course-Registration---Design?type=design&node-id=0%3A1&mode=design&t=JtnwBgcMcBlvaICm-1)<br/>
 WordPress - Created a Website for an architect and interior designer's portfolio: [Click Here](https://paulaleighmyportfolio.wordpress.com/)<br/>
 WordPress - My first website and business, promoting my emote artwork to clients: [Click Here](https://yohanforreal.wordpress.com/)<br/>
-

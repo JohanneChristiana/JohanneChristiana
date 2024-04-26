@@ -5,7 +5,7 @@
 
 👩‍💻 Sharing my journey and learnings in Tech<br/>
 🏫 Studying Information Technology at Victoria University, Australia<br/>
-🌻 A part of the Women in Tech VU Club [LinkTree](https://linktr.ee/womenintechvu)<br/>
+🌻 President of the Women in Tech VU Club [LinkTree](https://linktr.ee/womenintechvu)<br/>
 🖥️ Feel free to connect with me on [LinkedIn](www.linkedin.com/in/johannemenez)<br/>
 💭 Currently learning more about Java and JavaScript<br/>
 
